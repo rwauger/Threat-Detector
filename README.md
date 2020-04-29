@@ -4,4 +4,4 @@ This program will take as input a sample set of data that the NIDS has processed
 # How to run
 To run the program you can either manually type the input in the command line or pipe in a input file.
 
-# Example input is given
+## Example input is given
