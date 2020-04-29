@@ -1,0 +1,3 @@
+3    # minimum threat level
+5    # false alarm threshold
+-2   # Start of first set of samples

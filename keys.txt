@@ -1,0 +1,35 @@
+# test0
+Program terminates properly 
+
+# test1
+Program terminates properly 
+
+# test2
+Program terminates properly 
+
+# test3
+Threat detected with level 5 and appears 3 times
+Threat detected with level 10 and appears 3 times
+No threat detected
+Threat detected with level 5 and appears 4 times
+No threat detected
+
+# test4
+Threat detected with level 55 and appears 5 times
+No threat detected
+Threat detected with level 500 and appears 4 times
+No threat detected
+Threat detected with level 70 and appears 10 times
+
+# test5
+Threat detected with level 7 and appears 4 times
+Threat detected with level 5 and appears 3 times
+
+# test6
+Threat detected with level 1073741825 and appears 7 times
+
+# test7
+Threat detected with level 1073741825 and appears 7 times
+
+# test8
+Threat detected with level 6 and appears 4 times
